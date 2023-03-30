@@ -11,8 +11,8 @@ var env = process.env.NODE_ENV || 'development';
 
 var IgnoreWhitelist = true;
 var whitelist = [
-  'https://hima-pro.github.io',
-  'https://tdim.me',
+  'https://ryuzein.biz.id',
+  'https://raz.my.id',
   'http://localhost:8090'
 ];
 
